@@ -1,0 +1,10 @@
+AI improves healthcare diagnostics and reduces human error.
+Machine learning enables predictive analytics in finance and healthcare.
+RAG enhances contextual understanding by retrieving external knowledge.
+Multi-agent systems enable collaborative decision making.
+AI automation reduces operational cost and increases efficiency.
+Cloud computing enables scalable AI deployment.
+Data privacy and security are major challenges in AI systems.
+AI in education personalizes learning experience.
+Natural Language Processing helps in chatbots and automation.
+Computer vision is widely used in surveillance and healthcare.
